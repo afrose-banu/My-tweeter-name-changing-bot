@@ -1,1 +1,1 @@
-worker: Python Afrose-banu-tweet.py
+worker: python Afrose-banu-tweet.py
